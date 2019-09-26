@@ -17,10 +17,11 @@ body {
 #textField {
 	width: 90%;
 	height: 100px;
-	background: #aaa;
-	color: #fff;
 	font-size: 36px;
+	background: #000;
+	color: #fff;
 	border: 0;
+	border-bottom: 1px solid #aaa;
 	outline: 0;
 	border-radius: 4px;
 	letter-spacing: 0.5px;
@@ -49,7 +50,7 @@ body {
 	width: 90%;
 	margin: 20px auto 0;
 	color: #fff;
-	font: 14px tahoma;
+	font: 16px tahoma;
 	letter-spacing: 1px;
 }
 
